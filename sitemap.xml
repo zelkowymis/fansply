@@ -1,14 +1,26 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
-		<loc>https://kulig.fan/sitemap.xml/pp.html</loc>
+		<loc>https://splyw.fan/sitemap.xml/index.html</loc>
 	</url>
 	<url>
-		<loc>https://kulig.fan/sitemap.xml/regulamin.html</loc>
+		<loc>https://splyw.fan/sitemap.xml/faq.html</loc>
 	</url>
 	<url>
-		<loc>https://kulig.fan/sitemap.xml/rodo.html</loc>
+		<loc>https://splyw.fan/sitemap.xml/kontakt.html</loc>
 	</url>
 	<url>
-		<loc>https://kulig.fan/sitemap.xml/index.html</loc>
+		<loc>https://splyw.fan/sitemap.xml/pp.html</loc>
+	</url>
+	<url>
+		<loc>https://splyw.fan/sitemap.xml/regulamin.html</loc>
+	</url>
+	<url>
+		<loc>https://splyw.fan/sitemap.xml/rodo.html</loc>
+	</url>
+	<url>
+		<loc>https://splyw.fan/sitemap.xml/rezerwacja.html</loc>
+	</url>
+	<url>
+		<loc>https://splyw.fan/sitemap.xml/splyw-dunajcem-zakopane.html</loc>
 	</url>
 </urlset>
